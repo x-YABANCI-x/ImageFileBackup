@@ -16,6 +16,7 @@ Bu Python scripti, `C:\\` sürücüsündeki tüm dizinleri tarar ve görüntü d
 
 3. Script, tüm görüntü dosyalarını hedef klasöre kopyalar ve ilerlemeyi ekranda gösterir.
 
+<hr>
 
 # Image File Backup (English)
 
