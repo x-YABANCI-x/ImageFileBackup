@@ -8,13 +8,13 @@ Bu Python scripti, `C:\\` sürücüsündeki tüm dizinleri tarar ve görüntü d
 - Gerekli durumlarda yedekleme konumunda eksik klasörleri oluşturur.
 
 ## Kullanım
-1. `target_dir` değişkenini istediğiniz yedekleme konumuna ayarlayın.
-2. Scripti çalıştırın:
+**1.** `target_dir` değişkenini istediğiniz yedekleme konumuna ayarlayın.
+**2.** Scripti çalıştırın:
     
     ```bash
     python image_backup.py
 
-3. Script, tüm görüntü dosyalarını hedef klasöre kopyalar ve ilerlemeyi ekranda gösterir.
+**3.** Script, tüm görüntü dosyalarını hedef klasöre kopyalar ve ilerlemeyi ekranda gösterir.
 
 <hr>
 
@@ -28,10 +28,10 @@ This Python script scans all directories on the `C:\\` drive and copies image fi
 - Creates missing folders in the backup location as needed.
 
 ## Usage
-1. Set the `target_dir` variable to your desired backup location.
-2. Run the script:
+**1.** Set the `target_dir` variable to your desired backup location.
+**2.** Run the script:
 
    ```bash
-   python image_backup.py
-
-3. The script will copy all image files to the target directory and display the progress.
+ python image_backup.py
+```
+**3.** The script will copy all image files to the target directory and display the progress.
