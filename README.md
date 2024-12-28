@@ -11,9 +11,9 @@ Bu Python scripti, `C:\\` sürücüsündeki tüm dizinleri tarar ve görüntü d
 **1.** `target_dir` değişkenini istediğiniz yedekleme konumuna ayarlayın.
 **2.** Scripti çalıştırın:
     
-    ```bash
-    python image_backup.py
-
+```bash
+python image_backup.py
+```
 **3.** Script, tüm görüntü dosyalarını hedef klasöre kopyalar ve ilerlemeyi ekranda gösterir.
 
 <hr>
