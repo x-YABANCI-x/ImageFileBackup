@@ -2,12 +2,12 @@
 
 Bu Python scripti, `C:\\` sürücüsündeki tüm dizinleri tarar ve görüntü dosyalarını (`.jpg`, `.jpeg`, `.png`, `.bmp`, `.gif` gibi uzantılarla) belirttiğiniz yedekleme klasörüne kopyalar. Orijinal klasör yapısı yedekleme konumunda korunur.
 
-## Temel Özellikler
+### Temel Özellikler
 - `C:\\` sürücüsündeki görüntü dosyalarını otomatik olarak tarar.
 - Görüntüleri hedef yedekleme dizinine kopyalar ve klasör yapısını korur.
 - Gerekli durumlarda yedekleme konumunda eksik klasörleri oluşturur.
 
-## Kullanım
+### Kullanım
 **1.** `target_dir` değişkenini istediğiniz yedekleme konumuna ayarlayın.
 **2.** Scripti çalıştırın:
     
@@ -22,12 +22,12 @@ python image_backup.py
 
 This Python script scans all directories on the `C:\\` drive and copies image files (with extensions like `.jpg`, `.jpeg`, `.png`, `.bmp`, and `.gif`) to a specified backup directory. The original folder structure is preserved in the backup location.
 
-## Key Features
+### Key Features
 - Automatically scans the `C:\\` drive for image files.
 - Copies images to a specified target directory while maintaining the directory structure.
 - Creates missing folders in the backup location as needed.
 
-## Usage
+### Usage
 **1.** Set the `target_dir` variable to your desired backup location.
 **2.** Run the script:
 
