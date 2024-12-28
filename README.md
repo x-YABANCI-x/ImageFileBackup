@@ -1,4 +1,4 @@
-# Image File Backup
+# Image File Backup (Turkish)
 
 Bu Python scripti, `C:\\` sürücüsündeki tüm dizinleri tarar ve görüntü dosyalarını (`.jpg`, `.jpeg`, `.png`, `.bmp`, `.gif` gibi uzantılarla) belirttiğiniz yedekleme klasörüne kopyalar. Orijinal klasör yapısı yedekleme konumunda korunur.
 
@@ -17,7 +17,7 @@ Bu Python scripti, `C:\\` sürücüsündeki tüm dizinleri tarar ve görüntü d
 3. Script, tüm görüntü dosyalarını hedef klasöre kopyalar ve ilerlemeyi ekranda gösterir.
 
 
-# Image File Backup
+# Image File Backup (English)
 
 This Python script scans all directories on the `C:\\` drive and copies image files (with extensions like `.jpg`, `.jpeg`, `.png`, `.bmp`, and `.gif`) to a specified backup directory. The original folder structure is preserved in the backup location.
 
