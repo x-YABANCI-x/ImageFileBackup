@@ -29,7 +29,7 @@ This Python script scans all directories on the `C:\\` drive and copies image fi
 
 ### Usage
 **1.** Set the `target_dir` variable to your desired backup location.
-**2.** Run the script:
+**2.** Run the script: 
 
    ```bash
  python image_backup.py
